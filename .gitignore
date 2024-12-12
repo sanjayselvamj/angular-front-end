@@ -1,1 +1,6 @@
-blogging-website/
+# Ignore common build files
+node_modules/
+dist/
+
+# Do not ignore submodule directories
+!webside/
