@@ -1,0 +1,6 @@
+[submodule "blogging-website"]
+	path = blogging-website
+	url = https://github.com/sanjayselvamj/blogging-website.git
+[submodule "webside"]
+	path = webside
+	url = https://github.com/sanjayselvamj/webside.git
